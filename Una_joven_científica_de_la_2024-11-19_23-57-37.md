@@ -1,0 +1,11 @@
+# Una joven científica de la UMA logra el premio al mejor doctorado del mundo sobre materiales cementosos
+
+La noticia de que una joven científica de la Universidad de Málaga ha obtenido el premio al mejor doctorado del mundo sobre materiales cementosos es un motivo de orgullo y celebración para la comunidad académica y científica. Shiva Shirani, la investigadora postdoctoral detrás de este logro, ha sido galardonada con el 'Innovandi NanoCem PhD prize 2024' por su destacada contribución a la investigación en este campo.
+
+El premio, otorgado por la Global Cement and Concrete Association, reconoce el trabajo excepcional de Shirani en la optimización de alternativas al cemento Portland, con el objetivo de reducir la huella de carbono de la industria del hormigón. Su tesis doctoral, titulada 'Imágenes cuantitativas avanzadas de rayos X de sincrotrón de microestructuras y mesoestructuras de cemento', se enfoca en el desarrollo de materiales más ecológicos y duraderos.
+
+El uso de técnicas avanzadas de imagen con sincrotrón, como la nanotomografía de rayos X, ha permitido a Shirani visualizar la hidratación del cemento a escala nanométrica y comprender la evolución de las partículas a lo largo del tiempo. Esta información es crucial para el desarrollo de cemento bajo en carbono que pueda competir con el cemento Portland en términos de resistencia y durabilidad.
+
+El trabajo de Shirani no solo ha sido reconocido a nivel internacional con este prestigioso premio, sino que también ha recibido el Premio a la Mejor Tesis Doctoral Española en Radiación de Sincrotrón 2024. Su enfoque en la innovación y la investigación en el campo de la radiografía ha sido fundamental para avanzar hacia un cemento más sostenible y respetuoso con el medio ambiente.
+
+En resumen, el logro de Shiva Shirani es un ejemplo inspirador de cómo la dedicación, la pasión y la excelencia en la investigación pueden contribuir a resolver desafíos importantes en la ciencia de materiales. La Universidad de Málaga se enorgullece de contar con talento científico de este calibre y espera seguir apoyando la investigación de vanguardia en beneficio de la sociedad y el medio ambiente. ¡Felicidades a Shiva Shirani por este merecido reconocimiento!
